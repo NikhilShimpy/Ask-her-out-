@@ -1,6 +1,5 @@
 [![GitHub Pages](https://img.shields.io/github/pages/status/NikhilShimpy/Ask-her-out-/main?label=GitHub%20Pages)](https://nikhilshimpy.github.io/Ask-her-out-/) [![Live Demo](https://img.shields.io/website?url=https://nikhilshimpy.github.io/Ask-her-out-/)](https://nikhilshimpy.github.io/Ask-her-out-/)
 
-![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-222222?logo=github&logoColor=white)
 
 **Live Demo:** https://nikhilshimpy.github.io/Ask-her-out-/
 
