@@ -1,5 +1,19 @@
 [![GitHub Pages](https://img.shields.io/github/pages/status/NikhilShimpy/Ask-her-out-/main?label=GitHub%20Pages)](https://nikhilshimpy.github.io/Ask-her-out-/) [![Live Demo](https://img.shields.io/website?url=https://nikhilshimpy.github.io/Ask-her-out-/)](https://nikhilshimpy.github.io/Ask-her-out-/)
 
+![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-222222?logo=github&logoColor=white)
+
+**Live Demo:** https://nikhilshimpy.github.io/Ask-her-out-/
+
+
+## 🙌 Author
+
+**Nikhil Shimpy**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhilshimpy/)  
+- 🐙 [GitHub](https://github.com/NikhilShimpy)  
+- 📸 [Instagram](https://www.instagram.com/nikhilshimpyy/?hl=en)
+- 🔗 [LinkTree](https://linktr.ee/nikhilshimpyy)
+- 🖥️ [Portfolio](https://nikhilshimpyyportfolio.vercel.app/)
+
 # Ask Her Out
 
 Live demo: https://nikhilshimpy.github.io/Ask-her-out-/
